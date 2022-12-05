@@ -1,0 +1,15 @@
+.container__main-card {
+  width: 50%;
+  height: auto;
+  text-align: justify;
+  padding: .5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.container__main-card span, p {
+  color: gray;
+}
+.container__main-card span {
+  font-size: smaller;
+}

@@ -1,0 +1,13 @@
+.container__menu-title h1{
+  color: white;
+  padding: 1rem;
+  font-family: 'Zen Dots', cursive;
+  font-size: 5rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.container__menu-title hr {
+  margin: .8rem 0
+}
