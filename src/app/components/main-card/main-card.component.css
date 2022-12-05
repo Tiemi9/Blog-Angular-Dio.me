@@ -6,10 +6,16 @@
   display: flex;
   flex-direction: column;
 }
-
-.container__main-card span, p {
+.main-card__picture > img {
+  width: 100%;
+  min-width: 400px
+}
+.main-car__title h2 {
+  margin-bottom: 0;
+}
+.container__main-card span, p > a{
   color: gray;
 }
-.container__main-card span {
+.main-card__date {
   font-size: smaller;
 }
