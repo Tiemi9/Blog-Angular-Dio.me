@@ -1,0 +1,14 @@
+.container__small-cards {
+    width: 100%;
+    height: auto;
+    text-align: justify;
+    padding: .5rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .small-cards__picture > img{
+    width: 15rem;
+    height: 10rem;
+  }
+
