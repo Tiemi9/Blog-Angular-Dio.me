@@ -1,0 +1,14 @@
+@media screen and (max-width: 992px) {
+  .container__main-card {
+    width: fit-content;
+    padding: 0 3rem;
+    margin: 0;
+
+  }
+  .main-card__picture > img {
+    max-width: 150px;
+    justify-content: center;
+  }
+
+}
+
