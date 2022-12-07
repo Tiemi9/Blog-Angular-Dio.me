@@ -15,10 +15,6 @@ export class MainCardComponent implements OnInit {
   @Input()
   cardText:string = ""
   @Input()
-  cardLink:string = ""
-  @Input()
-  linkTitle:string = ""
-  @Input()
   Id:string = "0"
 
   constructor() { }
