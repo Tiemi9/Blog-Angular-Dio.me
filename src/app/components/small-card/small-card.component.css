@@ -4,7 +4,7 @@
     text-align: justify;
     padding: .5rem;
     display: flex;
-    align-items: center;
+    align-items: space-between;
     gap: 1rem;
   }
   .small-cards__picture > img {
@@ -14,4 +14,5 @@
 .small-cards__date > span {
   color: gray;
   font-size: smaller;
+
 }
