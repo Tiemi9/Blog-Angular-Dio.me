@@ -18,6 +18,8 @@ export class MainCardComponent implements OnInit {
   cardLink:string = ""
   @Input()
   linkTitle:string = ""
+  @Input()
+  Id:string = "0"
 
   constructor() { }
 

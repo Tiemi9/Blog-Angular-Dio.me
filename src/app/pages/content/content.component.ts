@@ -1,4 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { ActivatedRoute } from '@angular/router';
+
 
 @Component({
   selector: 'app-content',
@@ -9,15 +11,20 @@ export class ContentComponent implements OnInit {
   @Input()
   contentPhotoCover: string = "https://storage.googleapis.com/proudcity/mebanenc/uploads/2021/03/placeholder-image.png"
   @Input()
-  contentTitle: string = ""
+  contentTitle: string = "My news"
   @Input()
   contentDate: Date = new Date()
   @Input()
-  contentText: string = ""
+  contentText: string = "hello world"
 
-  constructor() { }
+  constructor(
+    private route: ActivatedRoute,
+  ) { }
 
   ngOnInit(): void {
+    this.route.paramMap.subscribe ( value =>
+      console.log(value.get("id"))
+    )
   }
 
 }
