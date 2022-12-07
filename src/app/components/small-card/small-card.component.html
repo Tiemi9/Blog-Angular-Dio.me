@@ -1,23 +1,27 @@
 <div class="container__small-cards">
-    <div class="small-cards__picture">
-      <img
-        src="{{ smallCardPhotoCover}}"
-        alt="{{ smallCardPhotoAlt  }}"
-        title="{{ smallCardPhotoAlt}} "
-      >
-    </div>
-
-    <div class="small-cards__description">
-      <div class="small-cards__date">
-        <span>{{  smallCardDate }}</span>
+    <div class="small-cards-content">
+      <div class="small-cards__picture">
+        <img
+          src="{{ smallCardPhotoCover}}"
+          alt="{{ smallCardPhotoAlt  }}"
+          title="{{ smallCardPhotoAlt}} "
+        >
       </div>
 
-      <div class="small-cards__text">
-        <h3><a href="{{ smallCardLink }}" target="_blank">{{ smallCardDiscription }}</a></h3>
+      <div class="small-cards__description">
+        <div class="small-cards__date">
+          <span>{{  smallCardDate }}</span>
+        </div>
+
+        <div class="small-cards__text">
+          <h3><a href="{{ smallCardLink }}" target="_blank">{{ smallCardDiscription }}</a></h3>
+        </div>
       </div>
     </div>
 
-
+    <div>
+      <hr>
+    </div>
 
 </div>
-<hr>
+
