@@ -1,0 +1,29 @@
+.container__content {
+  border-top: 1px solid white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container__content a {
+  margin: .5rem;
+  font-size: smaller;
+}
+.content__cover > img{
+  width: 18rem;
+  height: 15rem;
+  margin: .5rem 0 0 ;
+}
+.content__title > h1{
+  margin: 0.5rem 0 0;
+}
+.content__date > span, .content__description > p {
+  color: gray;
+}
+.content__date {
+  font-size: smaller;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 6rem;
+}
+
