@@ -1,27 +1,23 @@
-# AngularBlog
+# Primeiro Blog com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+A proposta desse desafio foi criar uma aplicação de blog funcional, construir componentes inteligentes e organizar um projeto Angular utilizando as ferramentas que o próprio framework oferece.
 
-## Development server
+![preview](./.github/preview.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+[Visite a página e veja como ficou! 👈](https://tiemi9.github.io/Blog-Angular-Dio.me/)
 
-## Code scaffolding
+## 🎮 Tecnologias utilizadas:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  - HTML
+  - CSS
+  - TypeScript
+  - Angular
+  - Git e GitHub
 
-## Build
+### 🤳 Contato
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+[Me econtre no Linkedin 🔗](https://www.linkedin.com/in/cristiemim9/)
 
-## Running unit tests
+### 💌 Agradecimentos
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+À toda equipe da DIO e da NTT Data pela oportunidade de adiquirir tanto conhecimento e imergir no mundo tecnológico, e principalmente ao Felipe Aguiar, que dividiu seu conhecimento de forma lúdica e de fácil entendimento. Obrigada por facilitar os estudos e tornar mais leve e divertido! Então... bora codar!! 
