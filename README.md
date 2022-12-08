@@ -1,4 +1,4 @@
-# Primeiro Blog com Angular
+# Primeiro Blog com Angular 🅰🤖🪐
 
 A proposta desse desafio foi criar uma aplicação de blog funcional, construir componentes inteligentes e organizar um projeto Angular utilizando as ferramentas que o próprio framework oferece.
 
