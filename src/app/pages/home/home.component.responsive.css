@@ -4,4 +4,9 @@
     flex-direction: column;
     justify-content: justify;
   }
-} 
+}
+@media screen and (max-width: 630px) {
+  .articles {
+    font-size: smaller;
+  }
+}
