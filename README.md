@@ -4,7 +4,6 @@ A proposta desse desafio foi criar uma aplicação de blog funcional, construir 
 
 ![preview](./.github/preview.png)
 
-[Visite a página e veja como ficou! 👈](https://tiemi9.github.io/Blog-Angular-Dio.me/)
 
 ## 🎮 Tecnologias utilizadas:
 
